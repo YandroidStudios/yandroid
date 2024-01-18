@@ -1,11 +1,13 @@
 <div align = center>
-  <h1>Yandroid</h1>
+  <a> <img src="https://github.com/SquirrelModeller/yandroid/assets/87671560/37b27bf0-da5b-4595-8321-4347a9e08ab2"></a>
   <p align="center">
     <a href="https://github.com/SquirrelModeller/yandroid/issues"> <img src="https://img.shields.io/github/issues/SquirrelModeller/yandroid"></a>
     <a href="https://github.com/SquirrelModeller/yandroid/pulls"> <img src="https://img.shields.io/github/issues-pr/SquirrelModeller/yandroid"></a>
     <a href="https://discord.gg/QZDrmtqYff"><img src="https://img.shields.io/discord/1025813526721335307?style=flat&logo=discord&logoColor=fff&color=404eed" alt="discord"></a>
   </p>
 </div>
+
+
 
 <h2>Overview</h2>
 <p>Yandroid is an open-source investigation and elimination game. It challenges players to find and eliminate a procedurally generated rival. The game is developed using Unreal Engine 5 and Blender.</p>
