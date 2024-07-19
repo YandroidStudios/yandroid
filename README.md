@@ -26,4 +26,4 @@
 <p>Game code is primarily in C++ with custom Blender scripts for asset creation and management.</p>
 
 <h2>Contributing</h2>
-<p>We welcome contributions to Yandroid. Please refer to the project guidelines for more information on how to contribute.</p>
+<p>We welcome contributions to Yandroid. Please refer to the <a href="https://github.com/YandroidStudios/yandroid/blob/main/CONTRIBUTING.md">Contribution Guide</a> for more information on how to contribute.</p>
