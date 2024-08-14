@@ -1,0 +1,19 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+cdaef692-4508-47d2-a233-e7b78641c98b:Yandroid:Yandroid
+0003b908-8adc-473e-b6eb-bd9798fdcf75:Yandroid/Enviorment:Yandroid-Enviorment
+129ea0f4-6650-475e-87eb-2ce35d07704f:Yandroid/Enviorment/School:Yandroid-Enviorment-School
+f0c019b3-3e97-4eb8-8c34-e8f6b53b96d0:Yandroid/Enviorment/School/Bridge:Yandroid-Enviorment-School-Bridge
+423ee80c-7e4a-4e59-b464-e7984466c493:Yandroid/Enviorment/School/Classrooms:Yandroid-Enviorment-School-Classrooms
+b06e0719-9eb9-4fe9-acac-d1c77224d5ec:Yandroid/Enviorment/School/Entrance:Yandroid-Enviorment-School-Entrance
+1a59d9bc-5b5f-4fa1-8ec6-83ef0b0b8995:Yandroid/Enviorment/School/Hallway:Yandroid-Enviorment-School-Hallway
+29005cca-f0ad-4ca7-a484-9940e3ae893f:Yandroid/Enviorment/School/Misc Rooms:Yandroid-Enviorment-School-Misc Rooms
+198e15ef-6455-4865-b8e3-3dcb205822c5:Yandroid/Enviorment/School/Roof:Yandroid-Enviorment-School-Roof
+f4b1092a-90ab-47bd-89a5-df97ef278262:Yandroid/Enviorment/School/Stairs:Yandroid-Enviorment-School-Stairs
+05bc7e88-9522-4333-9f3b-dc0c20f19299:Yandroid/Enviorment/School/Windows:Yandroid-Enviorment-School-Windows
